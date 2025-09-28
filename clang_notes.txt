@@ -1,0 +1,35 @@
+[date]
+29 September 2025
+
+[clang-ver]
+DiscussionVersePrjkt clang version 22.0.0git (https://github.com/llvm/llvm-project 41f3438362f5ae2a06544fec7db18c37f5ecd79b)
+
+[lld-ver]
+DiscussionVersePrjkt LLD 22.0.0 (https://github.com/llvm/llvm-project 41f3438362f5ae2a06544fec7db18c37f5ecd79b) (compatible with GNU linkers)
+
+[llvm-commit]
+https://github.com/llvm/llvm-project/commit/41f3438362f5ae2a06544fec7db18c37f5ecd79b
+
+[llvm-commit-msg]
+[VPlan] Remove dead code for scalar VFs in VPRegionBlock::cost (NFC).
+
+[host-glibc]
+2.35
+
+[size-gzip]
+183Mb
+
+[size-xz]
+121Mb
+
+[link-rel-gzip]
+https://github.com/xaverodumpster/dv_clang/releases/download/29092025/DiscussionVerse-Clang-22.0.0git-29092025.tar.gz
+
+[link-rel-xz]
+https://github.com/xaverodumpster/dv_clang/releases/download/29092025/DiscussionVerse-Clang-22.0.0git-29092025.tar.xz
+
+[shasum-gzip]
+3512edf5a8faac30eb0ec9439a3d16f5cb036e43e723667e9649ae02562ad34e
+
+[shasum-xz]
+843d9e4bd1baef459c31af2ea3d23f821f6caa93d6bcce328da4b973c1a79d48
