@@ -2,25 +2,25 @@
 29 September 2025
 
 [clang-ver]
-DiscussionVersePrjkt clang version 22.0.0git (https://github.com/llvm/llvm-project 41f3438362f5ae2a06544fec7db18c37f5ecd79b)
+DiscussionVersePrjkt clang version 22.0.0git (https://github.com/llvm/llvm-project cac0635ee9e947b5f90130df2f471aa4b722e04b)
 
 [lld-ver]
-DiscussionVersePrjkt LLD 22.0.0 (https://github.com/llvm/llvm-project 41f3438362f5ae2a06544fec7db18c37f5ecd79b) (compatible with GNU linkers)
+DiscussionVersePrjkt LLD 22.0.0 (https://github.com/llvm/llvm-project cac0635ee9e947b5f90130df2f471aa4b722e04b) (compatible with GNU linkers)
 
 [llvm-commit]
-https://github.com/llvm/llvm-project/commit/41f3438362f5ae2a06544fec7db18c37f5ecd79b
+https://github.com/llvm/llvm-project/commit/cac0635ee9e947b5f90130df2f471aa4b722e04b
 
 [llvm-commit-msg]
-[VPlan] Remove dead code for scalar VFs in VPRegionBlock::cost (NFC).
+[LoongArch] Add option for merge base offset pass
 
 [host-glibc]
 2.35
 
 [size-gzip]
-183Mb
+208Mb
 
 [size-xz]
-121Mb
+130Mb
 
 [link-rel-gzip]
 https://github.com/xaverodumpster/dv_clang/releases/download/29092025/DiscussionVerse-Clang-22.0.0git-29092025.tar.gz
@@ -29,7 +29,7 @@ https://github.com/xaverodumpster/dv_clang/releases/download/29092025/Discussion
 https://github.com/xaverodumpster/dv_clang/releases/download/29092025/DiscussionVerse-Clang-22.0.0git-29092025.tar.xz
 
 [shasum-gzip]
-3512edf5a8faac30eb0ec9439a3d16f5cb036e43e723667e9649ae02562ad34e
+56964416f07e862c9004e77f3dab892cc1d65c72571ae7710754ac7a1ab4fbad
 
 [shasum-xz]
-843d9e4bd1baef459c31af2ea3d23f821f6caa93d6bcce328da4b973c1a79d48
+5d3a876fc024342674df5e31c7b729a6355b04066599a0d954cb8a5f02817116
